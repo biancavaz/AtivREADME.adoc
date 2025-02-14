@@ -1,6 +1,6 @@
 = 📚 Sistema de Gerenciamento deBiblioteca
 
- 👩🏻 Autor: Bianca Isabela Vaz
+ 👩🏻  Autor: Bianca Isabela Vaz
  📅 Data: 14/02/2025
 
 :icons: font
