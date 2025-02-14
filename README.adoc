@@ -18,30 +18,30 @@ administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 == 🚀 Recursos
 * 📋 **Cadastro e gerenciamento** de livros com informações detalhadas
 (título, autor, ISBN, etc.).
-* Criação e modificação de empréstimos de livros, com opções de data
+* 🛠 **Criação e modificação** de empréstimos de livros, com opções de data
 de empréstimo e devolução.
-* Visualização da disponibilidade dos livros em tempo real.
-* Geração de relatórios de empréstimos, devoluções e multas.
-* Notificação de usuários sobre empréstimos e devoluções.
-* Sistema de login e autenticação para administradores e usuários.
+* 👀 **Visualização da disponibilidade** dos livros em tempo real.
+* 📝 **Geração de relatórios de empréstimos**, devoluções e multas.
+* 🚨 **Notificação de usuários** sobre empréstimos e devoluções.
+* ✅ **Sistema de login e autenticação** para administradores e usuários.
 
 == 💻 Tecnologias Utilizadas
 
-1. Frontend
-  o Angular: Framework utilizado para o desenvolvimento da
+1. 👨🏻‍💻 **Frontend**
+o Angular: Framework utilizado para o desenvolvimento da
 interface de usuário, permitindo uma aplicação interativa e
 responsiva.
 
-2. Backend
-  o Spring Boot (Java): Framework utilizado para o desenvolvimento
+2. 🔙 🔚 **Backend**
+o Spring Boot (Java): Framework utilizado para o desenvolvimento
 da API, que gerencia os empréstimos, os livros e os usuários.
 
-3. Banco de Dados
-  o MySQL: Banco de dados relacional utilizado para armazenar
+3. 🛢 **Banco de Dados**
+o MySQL: Banco de dados relacional utilizado para armazenar
 informações sobre empréstimos, usuários e livros.
 
-4. Autenticação
-  o JWT (JSON Web Tokens): Utilizado para garantir a segurança
+4. 🔐 **Autenticação**
+o JWT (JSON Web Tokens): Utilizado para garantir a segurança
 no processo de autenticação e autorização de usuários.
 
 == 🎮 Como Executar
@@ -120,11 +120,11 @@ A API do Sistema de Gerenciamento de Biblioteca foi documentada
 utilizando **Swagger**, permitindo uma **visualização interativa e detalhada** de
 todos os endpoints disponíveis. Abaixo estão alguns dos endpoints principais:
 
-* GET /api/books: Retorna todos os livros disponíveis.
-* POST /api/loans: Cria um novo empréstimo de livro.
-* GET /api/loans/{id}: Obtém os detalhes de um empréstimo específico.
-* PUT /api/loans/{id}: Atualiza informações de um empréstimo.
-*  DELETE /api/loans/{id}: Cancela um empréstimo.
+* 🔎 GET /api/books: Retorna todos os livros disponíveis.
+* ✍️ POST /api/loans: Cria um novo empréstimo de livro.
+* 🔎 GET /api/loans/{id}: Obtém os detalhes de um empréstimo específico.
+* ✍ PUT /api/loans/{id}: Atualiza informações de um empréstimo.
+* ❌ DELETE /api/loans/{id}: Cancela um empréstimo.
 
 
 Para **acessar a documentação** completa da API no Swagger, inicie o servidor
@@ -157,8 +157,8 @@ desenvolvimento:
 [source, sh]
 
 ----                                
-Email: contato@biblioteca.com
-Telefone: +55 11 98765-4321
+📩 Email: contato@biblioteca.com
+📞 Telefone: +55 11 98765-4321
 ----  
                                  
 == 🙏 Agradecimentos
